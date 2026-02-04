@@ -9,3 +9,9 @@ Insights and recommendations are provided in the following areas:
 - **Sales Trends Analysis**: Evaluation of historical sales patterns by product, with a focus on revenue and order volume.
 - **Product-Level Performance**: Analysis of individual SKUs to understand their contribution to total sales and overall performance.
 - **Category Comparison**: Comparison of sales and order volume across product categories to identify high- and low-performing segments.
+
+An interactive Tableau dashboard can be downloaded here (in progress).
+
+# Data Structure & Initial Checks
+
+Chinest supermarket's datasebase structure as seen below consists of four tables: product_master, cost of goods, loss rate, and orders with a total row count of 878,042 records.
