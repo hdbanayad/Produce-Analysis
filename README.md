@@ -37,7 +37,7 @@ Below is the overview of the Tableah dashboard and more examples are included th
 ## Product Performances:
 - **Approximately 60% of total orders are concentrated across 17 produce items**, including Broccoli, Wuhu Green Pepper, Net Lotus Root, Xixia Mushroom, Luosi Pepper, Needle Mushroom, Eggplant, Millet Pepper, Yunnan Lettuce, Qinggengsanhua, and Chinese Cabbage varieties. Collectively, **these products generated approximately 59% of total revenue from 2020 to 2023**, indicating a highly concentrated sales mix driven by a small subset of core items.
 - Aquatic Tuberous Vegetables and Cabbage underperformed relative to other categories, with 2023 forecasted volumes remaining below 2021–2022 levels, indicating weaker recovery and potential shifts in consumer preference.
-- Net Lotus Root, Yunnan Shengcai, Chinese Cabbage, Qinggengsanhua, Yunnan Lettuces, Sweet Chinese Cabbage, and Paopaojiao generated meaningful revenue in 2021 but experienced sharp declines in subsequent years, indicating a loss of demand or changes in assortment rather than consistently weak performance.
+- Net Lotus Root, Yunnan Shengcai, Chinese Cabbage, Qinggengsanhua, Yunnan Lettuces, Sweet Chinese Cabbage, and Paopaojiao generated meaningful revenue in 2021 but experienced sharp declines in subsequent years, indicating a loss of demand or changes in assortment rather than consistently weak performance. While total revenue declined in 2022 and rebounded in 2023, the contribution from previously high-impact products fell sharply from 26% in 2021 to just 2% in 2023, indicating a fundamental shift in the underlying revenue mix rather than a return to prior demand drivers.
 
 ## Recommendations:
 Based on the uncovered insights, the following recommendations have been provided:
