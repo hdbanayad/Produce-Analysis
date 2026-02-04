@@ -29,15 +29,15 @@ After peaking in 2021, the company's sales declined, with a significant drop in 
 Below is the overview of the Tableah dashboard and more examples are included throughout the report, Trhe entire interactive dashboard can be downloaded here [INSERT HYPERLINK HERE].
 
 ## Sales Trends:
-**- The company's sales peaked in 2021 with 298,587 orders totaling $12,847 monthly revenue.** This corresponds to grocery's becoming essential during the pandemic, since restaurants closed or limited their services.
+- **The company's sales peaked in 2021 with 298,587 orders totaling $12,847 monthly revenue.** This corresponds to grocery's becoming essential during the pandemic, since restaurants closed or limited their services.
 - Monthly revenue peaked in February 2021 at $25,043, followed by a sharp decline and a prolonged period of volatility characterized by recurring seasonal spikes without a sustained return to prior peak levels. Revenue reached a company lifetime low in June 2022 ($7,415). In subsequent months, revenue partially recovered, aligning with historically stronger performance during Q3 and Q4.
 - Sales peaks did not consistently coincide with periods of higher discount penetration. In several instances, sales increased during months with relatively low discount usage.
 - Order volume demonstrates a recurring seasonal pattern, with consistently higher activity during late summer months (Q3), while November remains a persistent low point despite falling in the latter half of the year.
 
 ## Product Performances:
-- **85% of the company's orders are from XXX produces: ** XXX, XXX, and XXX. These three products accounted for $ in revenue in 20XX, XX%% of the company's total.
-- In the XXX category, the XXX underperformed, contributing less tahn and orders despite being XXX.
-- The XXX category continues to grow as a share of orders, now at XX% in 20XX, up from XX% in 20XX. However, XXX remains XXX than XXX% of total revenue.
+- **Approximately 60% of total orders are concentrated across 17 produce items**, including Broccoli, Wuhu Green Pepper, Net Lotus Root, Xixia Mushroom, Luosi Pepper, Needle Mushroom, Eggplant, Millet Pepper, Yunnan Lettuce, Qinggengsanhua, and Chinese Cabbage varieties. Collectively, **these products generated approximately 59% of total revenue from 2020 to 2023**, indicating a highly concentrated sales mix driven by a small subset of core items.
+- Aquatic Tuberous Vegetables and Cabbage underperformed relative to other categories, with 2023 forecasted volumes remaining below 2021–2022 levels, indicating weaker recovery and potential shifts in consumer preference.
+- Net Lotus Root, Yunnan Shengcai, Chinese Cabbage, Qinggengsanhua, Yunnan Lettuces, Sweet Chinese Cabbage, and Paopaojiao generated meaningful revenue in 2021 but experienced sharp declines in subsequent years, indicating a loss of demand or changes in assortment rather than consistently weak performance.
 
 ## Recommendations:
 Based on the uncovered insights, the following recommendations have been provided:
