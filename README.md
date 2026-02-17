@@ -24,7 +24,7 @@ Prior to the beginning of the analysis, a variety of checks were conducted for q
 
 ## Overview of Findings
 
-After peaking in 2021, the company's sales declined, with a significant drop in 2022. However, forecasted sales for 2023 should reach 2021 performance. Key performance indicates have shown year-over-year decrease: order volume by 11.64% and revenue by 5.80%. The following sections will explore contributing factors in loss of sale and highlight key opportunity areas for improvement.
+After peaking in 2021, the company's sales declined, with a significant drop in 2022. However, forecasted sales for 2023 should reach 2021 performance. Key performance indicates have shown year-over-year decreases: order volume by 11.64% and revenue by 5.80%. The following sections will explore contributing factors in loss of sale and highlight key opportunity areas for improvement.
 
 Below is the overview of the Tableah dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here [INSERT HYPERLINK HERE].
 
